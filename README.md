@@ -16,4 +16,4 @@ git commit -m "commit message"
 
 to send the information from local repository to remote repository use command 
 
-git push
+git push --set-upstream origin branchname 
