@@ -27,5 +27,10 @@ git checkout -b filename
 
 to send the information from local repository to remote repository use command 
 
-git push
+git push --set-upstream origin branchname
 
+to create a new branch out of existing branch use command
+
+git checkout -b branchname
+
+-b is flag for creating new branch to get existing branch use git checkout branchname
