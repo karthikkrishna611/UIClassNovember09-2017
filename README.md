@@ -1,5 +1,5 @@
 # UIClassNovember09-2017
-To demonstrate on how to use git
+To demonstrate on how to use git and github
 
 to download this for the first time
 
