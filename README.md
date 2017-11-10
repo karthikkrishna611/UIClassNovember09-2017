@@ -13,3 +13,13 @@ git add .
 to commit your chnages to local repo : use command
 
 git commit -m "commit message"
+
+to send the the info from the local repository to remote rep, use command to git push
+
+
+
+
+Commands
+Initial downlad:
+Git , clone
+git checkout -b filename 
