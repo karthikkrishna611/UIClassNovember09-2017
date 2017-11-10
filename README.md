@@ -8,5 +8,8 @@ git clone https://github.com/karthikkrishna611/UIClassNovember09-2017.git
 
 After you make the changes in the code ,use command 
  
- git add .
+git add .
  
+to commit your chnages to local repo : use command
+
+git commit -m "commit message"
