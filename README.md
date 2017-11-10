@@ -13,3 +13,24 @@ git add .
 to commit your chnages to local repo : use command
 
 git commit -m "commit message"
+
+
+to send the the info from the local repository to remote rep, use command to git push
+
+
+
+
+Commands
+Initial downlad:
+Git , clone
+git checkout -b filename 
+
+to send the information from local repository to remote repository use command 
+
+git push --set-upstream origin branchname
+
+to create a new branch out of existing branch use command
+
+git checkout -b branchname
+
+-b is flag for creating new branch to get existing branch use git checkout branchname
