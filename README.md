@@ -25,6 +25,24 @@ git checkout -b branchname
 
 -b is flag for creating new branch to get existing branch use git checkout branchname
 
+suppose if you have two branches 
+
+feature and develop
+
+suppose if you need to merge feature into develop: use following commands
+
+before you start this commands make sure your develop branch is upto date my making a git pull on develop first and then start process below. Also make sure you commit all changes into feature and develop and then start process below.
+
+git checkout feature 
+
+git merge develop
+
+git checkout develop
+
+git merge --no-ff feature
+
+git push --set-upstream origin develop
+
 
 
 
