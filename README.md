@@ -13,3 +13,7 @@ git add .
 to commit your chnages to local repo : use command
 
 git commit -m "commit message"
+
+to send the information from local repository to remote repository use command 
+
+git push
